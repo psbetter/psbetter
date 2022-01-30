@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 #### JavaWeb项目⚡
 - KEI:KEI是行业动能指数项目，...
 
-#### 学习小项目
+#### 学习小项目✨
 - 个人博客:博客参考码神之路
