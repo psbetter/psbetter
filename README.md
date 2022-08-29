@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-我是程序员psbetter, 湖南大学2020届计算机专业硕士研究生，研究生期间参与多个项目和论文的研究工作。
+我是程序员psbetter, 一名计算机专业硕士研究生，研究生期间参与多个项目和论文的研究工作。
 
 ### 我的开源项目
 
