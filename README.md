@@ -19,12 +19,5 @@ Here are some ideas to get you started:
 ### 我的开源项目
 
 #### 论文成果🌱
-- [CMFT](https://github.com/psbetter/CMFT)：CMFT是一篇SCI一区的期刊论文代码，本人通讯二作
+- [CMFT](https://github.com/psbetter/CMFT)：CMFT是一篇SCI一区的期刊论文代码，本人学生一作
 - [GCDA](https://github.com/psbetter/GCDA)：GCDA是一篇SCI二区的期刊论文代码，本人通讯三作
-
-#### Java微服务项目⚡
-- [KEI](https://github.com/psbetter/KEI):KEI是行业动能指数项目，...
-
-#### 学习小项目✨
-- 个人博客:博客参考码神之路
-- JAVA客户端：[聊天室](https://github.com/psbetter/ChatRoom)
