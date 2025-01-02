@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 ### 我的开源项目
 
+#### Web项目🌱
+- [Pubrank](https://github.com/psbetter/pubrank)
+
 #### 论文成果🌱
 - [CMFT](https://github.com/psbetter/CMFT)
 - [GCDA](https://github.com/psbetter/GCDA)
